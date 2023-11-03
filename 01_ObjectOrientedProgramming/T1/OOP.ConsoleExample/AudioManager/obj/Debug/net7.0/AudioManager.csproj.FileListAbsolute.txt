@@ -1,0 +1,12 @@
+/Users/yahir/Projects/OOP.ConsoleExample/AudioManager/bin/Debug/net7.0/AudioManager.deps.json
+/Users/yahir/Projects/OOP.ConsoleExample/AudioManager/bin/Debug/net7.0/AudioManager.dll
+/Users/yahir/Projects/OOP.ConsoleExample/AudioManager/bin/Debug/net7.0/AudioManager.pdb
+/Users/yahir/Projects/OOP.ConsoleExample/AudioManager/obj/Debug/net7.0/AudioManager.csproj.AssemblyReference.cache
+/Users/yahir/Projects/OOP.ConsoleExample/AudioManager/obj/Debug/net7.0/AudioManager.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yahir/Projects/OOP.ConsoleExample/AudioManager/obj/Debug/net7.0/AudioManager.AssemblyInfoInputs.cache
+/Users/yahir/Projects/OOP.ConsoleExample/AudioManager/obj/Debug/net7.0/AudioManager.AssemblyInfo.cs
+/Users/yahir/Projects/OOP.ConsoleExample/AudioManager/obj/Debug/net7.0/AudioManager.csproj.CoreCompileInputs.cache
+/Users/yahir/Projects/OOP.ConsoleExample/AudioManager/obj/Debug/net7.0/AudioManager.dll
+/Users/yahir/Projects/OOP.ConsoleExample/AudioManager/obj/Debug/net7.0/refint/AudioManager.dll
+/Users/yahir/Projects/OOP.ConsoleExample/AudioManager/obj/Debug/net7.0/AudioManager.pdb
+/Users/yahir/Projects/OOP.ConsoleExample/AudioManager/obj/Debug/net7.0/ref/AudioManager.dll

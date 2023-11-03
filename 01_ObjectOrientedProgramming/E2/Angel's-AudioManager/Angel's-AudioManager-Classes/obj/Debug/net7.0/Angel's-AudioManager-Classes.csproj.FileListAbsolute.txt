@@ -1,0 +1,17 @@
+/Users/yahir/Projects/Angel's-AudioManager/Angel's-AudioManager-Classes/bin/Debug/net7.0/Angel's-AudioManager-Classes.deps.json
+/Users/yahir/Projects/Angel's-AudioManager/Angel's-AudioManager-Classes/bin/Debug/net7.0/Angel's-AudioManager-Classes.dll
+/Users/yahir/Projects/Angel's-AudioManager/Angel's-AudioManager-Classes/bin/Debug/net7.0/Angel's-AudioManager-Classes.pdb
+/Users/yahir/Projects/Angel's-AudioManager/Angel's-AudioManager-Classes/obj/Debug/net7.0/Angel's-AudioManager-Classes.csproj.AssemblyReference.cache
+/Users/yahir/Projects/Angel's-AudioManager/Angel's-AudioManager-Classes/obj/Debug/net7.0/Angel's-AudioManager-Classes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yahir/Projects/Angel's-AudioManager/Angel's-AudioManager-Classes/obj/Debug/net7.0/Angel's-AudioManager-Classes.AssemblyInfoInputs.cache
+/Users/yahir/Projects/Angel's-AudioManager/Angel's-AudioManager-Classes/obj/Debug/net7.0/Angel's-AudioManager-Classes.AssemblyInfo.cs
+/Users/yahir/Projects/Angel's-AudioManager/Angel's-AudioManager-Classes/obj/Debug/net7.0/Angel's-AudioManager-Classes.csproj.CoreCompileInputs.cache
+/Users/yahir/Projects/Angel's-AudioManager/Angel's-AudioManager-Classes/obj/Debug/net7.0/Angel's-AudioManager-Classes.dll
+/Users/yahir/Projects/Angel's-AudioManager/Angel's-AudioManager-Classes/obj/Debug/net7.0/refint/Angel's-AudioManager-Classes.dll
+/Users/yahir/Projects/Angel's-AudioManager/Angel's-AudioManager-Classes/obj/Debug/net7.0/Angel's-AudioManager-Classes.pdb
+/Users/yahir/Projects/Angel's-AudioManager/Angel's-AudioManager-Classes/obj/Debug/net7.0/ref/Angel's-AudioManager-Classes.dll
+/Users/yahir/Projects/Angel's-AudioManager/Angel's-AudioManager-Classes/bin/Debug/net7.0/Resources/Bicycle.wav
+/Users/yahir/Projects/Angel's-AudioManager/Angel's-AudioManager-Classes/bin/Debug/net7.0/Resources/Car.wav
+/Users/yahir/Projects/Angel's-AudioManager/Angel's-AudioManager-Classes/bin/Debug/net7.0/Resources/Motorcycle.wav
+/Users/yahir/Projects/Angel's-AudioManager/Angel's-AudioManager-Classes/bin/Debug/net7.0/Resources/Train.wav
+/Users/yahir/Projects/Angel's-AudioManager/Angel's-AudioManager-Classes/bin/Debug/net7.0/Resources/Truck.wav

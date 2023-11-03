@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{27D989B5-02EA-4088-B5FD-8675986968F4}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Angel_227s-AudioManager PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Angel's-AudioManager-Classes/Car.cs">
+    <Files>
+      <File FileName="Angel's-AudioManager/Program.cs" Line="44" Column="57" IsPinned="True" />
+      <File FileName="Angel's-AudioManager-Classes/Vehicle.cs" Line="14" Column="1" IsPinned="True" />
+      <File FileName="Angel's-AudioManager-Classes/Truck.cs" />
+      <File FileName="Angel's-AudioManager-Classes/Train.cs" />
+      <File FileName="Angel's-AudioManager-Classes/Motorcycle.cs" />
+      <File FileName="Angel's-AudioManager-Classes/Car.cs" Line="26" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Angel's-AudioManager" expanded="True">
+            <Node name="Angel's-AudioManager" expanded="True" />
+            <Node name="Angel's-AudioManager-Classes" expanded="True">
+              <Node name="Resources" expanded="True" />
+              <Node name="Car.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

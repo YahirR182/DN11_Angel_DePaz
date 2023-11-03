@@ -1,0 +1,118 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/yahir/Projects/OOP.ConsoleExample/OOP.ConsoleExample/OOP.ConsoleExample.csproj": {}
+  },
+  "projects": {
+    "/Users/yahir/Projects/OOP.ConsoleExample/AudioManager/AudioManager.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/yahir/Projects/OOP.ConsoleExample/AudioManager/AudioManager.csproj",
+        "projectName": "AudioManager",
+        "projectPath": "/Users/yahir/Projects/OOP.ConsoleExample/AudioManager/AudioManager.csproj",
+        "packagesPath": "/Users/yahir/.nuget/packages/",
+        "outputPath": "/Users/yahir/Projects/OOP.ConsoleExample/AudioManager/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/yahir/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.310/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/yahir/Projects/OOP.ConsoleExample/OOP.ConsoleExample/OOP.ConsoleExample.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/yahir/Projects/OOP.ConsoleExample/OOP.ConsoleExample/OOP.ConsoleExample.csproj",
+        "projectName": "OOP.ConsoleExample",
+        "projectPath": "/Users/yahir/Projects/OOP.ConsoleExample/OOP.ConsoleExample/OOP.ConsoleExample.csproj",
+        "packagesPath": "/Users/yahir/.nuget/packages/",
+        "outputPath": "/Users/yahir/Projects/OOP.ConsoleExample/OOP.ConsoleExample/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/yahir/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/yahir/Projects/OOP.ConsoleExample/AudioManager/AudioManager.csproj": {
+                "projectPath": "/Users/yahir/Projects/OOP.ConsoleExample/AudioManager/AudioManager.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.310/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

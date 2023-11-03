@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{88E7EC50-7C09-47FF-AD1D-D90BC667457C}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.OPP.ConsoleExample PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="AudioManager/Cow.cs">
+    <Files>
+      <File FileName="OPP.ConsoleExample/EmptyClass.cs" />
+      <File FileName="AudioManager/Cow.cs" Line="14" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="OOP.ConsoleExample" expanded="True">
+            <Node name="AudioManager" expanded="True">
+              <Node name="Cow.cs" selected="True" />
+            </Node>
+            <Node name="OPP.ConsoleExample" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

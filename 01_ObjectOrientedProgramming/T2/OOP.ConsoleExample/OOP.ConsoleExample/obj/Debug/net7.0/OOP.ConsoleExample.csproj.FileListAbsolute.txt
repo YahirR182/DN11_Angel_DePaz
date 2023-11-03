@@ -1,0 +1,15 @@
+/Users/yahir/Projects/OOP.ConsoleExample/OOP.ConsoleExample/bin/Debug/net7.0/OOP.ConsoleExample
+/Users/yahir/Projects/OOP.ConsoleExample/OOP.ConsoleExample/bin/Debug/net7.0/OOP.ConsoleExample.deps.json
+/Users/yahir/Projects/OOP.ConsoleExample/OOP.ConsoleExample/bin/Debug/net7.0/OOP.ConsoleExample.runtimeconfig.json
+/Users/yahir/Projects/OOP.ConsoleExample/OOP.ConsoleExample/bin/Debug/net7.0/OOP.ConsoleExample.dll
+/Users/yahir/Projects/OOP.ConsoleExample/OOP.ConsoleExample/bin/Debug/net7.0/OOP.ConsoleExample.pdb
+/Users/yahir/Projects/OOP.ConsoleExample/OOP.ConsoleExample/obj/Debug/net7.0/OOP.ConsoleExample.csproj.AssemblyReference.cache
+/Users/yahir/Projects/OOP.ConsoleExample/OOP.ConsoleExample/obj/Debug/net7.0/OOP.ConsoleExample.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yahir/Projects/OOP.ConsoleExample/OOP.ConsoleExample/obj/Debug/net7.0/OOP.ConsoleExample.AssemblyInfoInputs.cache
+/Users/yahir/Projects/OOP.ConsoleExample/OOP.ConsoleExample/obj/Debug/net7.0/OOP.ConsoleExample.AssemblyInfo.cs
+/Users/yahir/Projects/OOP.ConsoleExample/OOP.ConsoleExample/obj/Debug/net7.0/OOP.ConsoleExample.csproj.CoreCompileInputs.cache
+/Users/yahir/Projects/OOP.ConsoleExample/OOP.ConsoleExample/obj/Debug/net7.0/OOP.ConsoleExample.dll
+/Users/yahir/Projects/OOP.ConsoleExample/OOP.ConsoleExample/obj/Debug/net7.0/refint/OOP.ConsoleExample.dll
+/Users/yahir/Projects/OOP.ConsoleExample/OOP.ConsoleExample/obj/Debug/net7.0/OOP.ConsoleExample.pdb
+/Users/yahir/Projects/OOP.ConsoleExample/OOP.ConsoleExample/obj/Debug/net7.0/OOP.ConsoleExample.genruntimeconfig.cache
+/Users/yahir/Projects/OOP.ConsoleExample/OOP.ConsoleExample/obj/Debug/net7.0/ref/OOP.ConsoleExample.dll
