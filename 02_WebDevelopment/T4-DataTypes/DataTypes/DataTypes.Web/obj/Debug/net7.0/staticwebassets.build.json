@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "tT/SxSv1Z8DAbz1Zi+HmEr9TN6Y1i2qs3kQwAZFZAeA=",
+  "Source": "DataTypes.Web",
+  "BasePath": "_content/DataTypes.Web",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "DataTypes.Web/wwwroot",
+      "Source": "DataTypes.Web",
+      "ContentRoot": "/Users/yahir/Projects/DataTypes/DataTypes.Web/wwwroot/",
+      "BasePath": "_content/DataTypes.Web",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/yahir/Projects/DataTypes/DataTypes.Web/wwwroot/DataTypes.js",
+      "SourceId": "DataTypes.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/yahir/Projects/DataTypes/DataTypes.Web/wwwroot/",
+      "BasePath": "_content/DataTypes.Web",
+      "RelativePath": "DataTypes.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/DataTypes.js"
+    }
+  ]
+}
