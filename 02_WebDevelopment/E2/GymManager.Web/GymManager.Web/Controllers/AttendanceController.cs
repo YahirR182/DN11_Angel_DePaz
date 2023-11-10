@@ -10,8 +10,13 @@ namespace GymManager.Web.Controllers
 {
     public class AttendanceController : Controller
     {
-        // GET: /<controller>/
-        public IActionResult Index()
+       
+        public IActionResult MemberIn()
+        {
+            return View();
+        }
+
+        public IActionResult MemberOut()
         {
             return View();
         }

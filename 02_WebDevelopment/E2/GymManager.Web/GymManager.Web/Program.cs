@@ -22,7 +22,11 @@ app.UseRouting();
 app.UseAuthorization();
 app.UseEndpoints(endpoints => {
 
+    endpoints.MapControllerRoute("memberIn", "Attendance/MemberIn", new { controller = "Attendance", action = "MemberIn" });
+    endpoints.MapControllerRoute("memberOut", "Attendance/MemberOut", new { controller = "Attendance", action = "MemberOut" });
+
     endpoints.MapControllerRoute("default", "{controller=Home}/{action=Index}/{id?}");
+   
     endpoints.MapRazorPages();
 });
 

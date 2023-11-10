@@ -13,6 +13,7 @@
     <None Remove="Controllers\" />
     <None Remove="Views\" />
     <None Remove="Views\Members\" />
+    <None Remove="Views\Attendance\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Models\" />
@@ -20,6 +21,7 @@
     <Folder Include="Views\" />
     <Folder Include="Views\Members\" />
     <Folder Include="wwwroot\Images\" />
+    <Folder Include="Views\Attendance\" />
   </ItemGroup>
   <ItemGroup>
     <Content Remove="wwwroot\Images\" />

@@ -1,34 +1,26 @@
 ﻿<Properties StartupConfiguration="{6E4EC86F-391B-4F64-81B8-3ECA1DE2FE10}|https">
-  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.GymManager.Web PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="GymManager.Web/Views/Members/Index.cshtml">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="GymManager.Web/Views/Members/MemberOut.cshtml">
     <Files>
-      <File FileName="GymManager.Web/Views/Members/Index.cshtml" Line="22" Column="1" />
+      <File FileName="GymManager.Web/Views/Members/Index.cshtml" />
+      <File FileName="GymManager.Web/Views/Members/MemberIn.cshtml" />
+      <File FileName="GymManager.Web/Views/Members/MemberOut.cshtml" Line="7" Column="16" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="GymManager.Web" expanded="True" selected="True">
+          <Node name="GymManager.Web" expanded="True">
             <Node name="GymManager.Web" expanded="True">
-              <Node name="Controllers" expanded="True" />
-              <Node name="Models" expanded="True" />
-              <Node name="Views" expanded="True">
-                <Node name="Members" expanded="True" />
-              </Node>
-              <Node name="wwwroot" expanded="True">
-                <Node name="Images" expanded="True" />
-              </Node>
+              <Node name="ConnectedServicesFolder" selected="True" />
             </Node>
           </Node>
         </State>
-      </Pad>
-      <Pad Id="MonoDevelop.Debugger.WatchPad">
-        <State />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
