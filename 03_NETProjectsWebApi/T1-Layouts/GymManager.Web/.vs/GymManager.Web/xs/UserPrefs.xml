@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{6E4EC86F-391B-4F64-81B8-3ECA1DE2FE10}|https">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.GymManager.Web PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="GymManager.Web/Controllers/MembersController.cs">
+    <Files>
+      <File FileName="GymManager.Web/Controllers/MembersController.cs" Line="7" Column="4" />
+      <File FileName="GymManager.Web/Views/Members/Test.cshtml" Line="307" Column="67" />
+      <File FileName="GymManager.Web/Views/Members/Index.cshtml" Line="5" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="GymManager.Web" expanded="True">
+            <Node name="GymManager.Web" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="MembersController.cs" selected="True" />
+              </Node>
+              <Node name="Views" expanded="True">
+                <Node name="Members" expanded="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="js" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

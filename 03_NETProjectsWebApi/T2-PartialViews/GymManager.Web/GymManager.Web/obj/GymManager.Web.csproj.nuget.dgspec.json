@@ -1,0 +1,182 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/yahir/Projects/GymManager.Web/GymManager.Web/GymManager.Web.csproj": {}
+  },
+  "projects": {
+    "/Users/yahir/Projects/GymManager.Web/GymManager.ApplicationServices/GymManager.ApplicationServices.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/yahir/Projects/GymManager.Web/GymManager.ApplicationServices/GymManager.ApplicationServices.csproj",
+        "projectName": "GymManager.ApplicationServices",
+        "projectPath": "/Users/yahir/Projects/GymManager.Web/GymManager.ApplicationServices/GymManager.ApplicationServices.csproj",
+        "packagesPath": "/Users/yahir/.nuget/packages/",
+        "outputPath": "/Users/yahir/Projects/GymManager.Web/GymManager.ApplicationServices/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/yahir/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/yahir/Projects/GymManager.Web/GymManager.Core/GymManager.Core.csproj": {
+                "projectPath": "/Users/yahir/Projects/GymManager.Web/GymManager.Core/GymManager.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.311/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/yahir/Projects/GymManager.Web/GymManager.Core/GymManager.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/yahir/Projects/GymManager.Web/GymManager.Core/GymManager.Core.csproj",
+        "projectName": "GymManager.Core",
+        "projectPath": "/Users/yahir/Projects/GymManager.Web/GymManager.Core/GymManager.Core.csproj",
+        "packagesPath": "/Users/yahir/.nuget/packages/",
+        "outputPath": "/Users/yahir/Projects/GymManager.Web/GymManager.Core/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/yahir/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.311/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/yahir/Projects/GymManager.Web/GymManager.Web/GymManager.Web.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/yahir/Projects/GymManager.Web/GymManager.Web/GymManager.Web.csproj",
+        "projectName": "GymManager.Web",
+        "projectPath": "/Users/yahir/Projects/GymManager.Web/GymManager.Web/GymManager.Web.csproj",
+        "packagesPath": "/Users/yahir/.nuget/packages/",
+        "outputPath": "/Users/yahir/Projects/GymManager.Web/GymManager.Web/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/yahir/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/sdk/7.0.311/Sdks/Microsoft.NET.Sdk.Web/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/yahir/Projects/GymManager.Web/GymManager.ApplicationServices/GymManager.ApplicationServices.csproj": {
+                "projectPath": "/Users/yahir/Projects/GymManager.Web/GymManager.ApplicationServices/GymManager.ApplicationServices.csproj"
+              },
+              "/Users/yahir/Projects/GymManager.Web/GymManager.Core/GymManager.Core.csproj": {
+                "projectPath": "/Users/yahir/Projects/GymManager.Web/GymManager.Core/GymManager.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.311/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
