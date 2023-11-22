@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{1FBC250E-1F7E-49F6-A396-81803E7C62BA}|https">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Api.Example PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.ItemProperties.WebApi.WindowsClient PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="WebApi.WindowsClient/Program.cs">
+    <Files>
+      <File FileName="WebApi.WindowsClient/Program.cs" Line="28" Column="33" />
+      <File FileName="WebApi.WindowsClient/IpAddress.cs" Line="6" Column="31" />
+      <File FileName="WebApi.WindowsClient/IpInfo.cs" Line="15" Column="43" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WebApi.WindowsClient" expanded="True">
+            <Node name="WebApi.WindowsClient" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+</Properties>
