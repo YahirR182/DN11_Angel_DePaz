@@ -1,0 +1,52 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <PropertyGroup Condition=" '$(RunConfiguration)' == 'https' " />
+  <PropertyGroup Condition=" '$(RunConfiguration)' == 'http' " />
+  <ItemGroup>
+    <None Remove="Models\" />
+    <None Remove="Controllers\" />
+    <None Remove="Views\" />
+    <None Remove="Views\Members\" />
+    <None Remove="Views\Attendance\" />
+    <None Remove="Views\Home\" />
+    <None Remove="Pages\Shared\Components\" />
+    <None Remove="Pages\Shared\Components\AppMenu\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Models\" />
+    <Folder Include="Controllers\" />
+    <Folder Include="Views\" />
+    <Folder Include="Views\Members\" />
+    <Folder Include="wwwroot\Images\" />
+    <Folder Include="Views\Attendance\" />
+    <Folder Include="Views\Home\" />
+    <Folder Include="wwwroot\Views\" />
+    <Folder Include="wwwroot\Views\Members\" />
+    <Folder Include="wwwroot\lib\jqueryui\" />
+    <Folder Include="Pages\Shared\Components\" />
+    <Folder Include="Pages\Shared\Components\AppMenu\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Remove="wwwroot\Images\" />
+    <Content Remove="wwwroot\Views\" />
+    <Content Remove="wwwroot\Views\Members\" />
+    <Content Remove="wwwroot\lib\jqueryui\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\GymManager.Core\GymManager.Core.csproj">
+      <GlobalPropertiesToRemove></GlobalPropertiesToRemove>
+    </ProjectReference>
+    <ProjectReference Include="..\GymManager.ApplicationServices\GymManager.ApplicationServices.csproj">
+      <GlobalPropertiesToRemove></GlobalPropertiesToRemove>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation" Version="7.0.14" />
+  </ItemGroup>
+</Project>
