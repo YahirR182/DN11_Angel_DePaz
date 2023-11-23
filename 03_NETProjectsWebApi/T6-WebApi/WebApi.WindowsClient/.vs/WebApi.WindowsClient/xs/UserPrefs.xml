@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{1FBC250E-1F7E-49F6-A396-81803E7C62BA}|https">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Api.Example PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.ItemProperties.WebApi.WindowsClient PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="WebApi.WindowsClient/Program.cs">
+    <Files>
+      <File FileName="WebApi.WindowsClient/IpInfo.cs" Line="15" Column="43" />
+      <File FileName="Api.Example/Models/WeatherForecast.cs" Line="2" Column="3" />
+      <File FileName="Api.Example/Models/Zone.cs" Line="2" Column="23" />
+      <File FileName="Api.Example/Models/ZoneWeather.cs" Line="11" Column="1" />
+      <File FileName="Api.Example/Controllers/WeatherForecastController.cs" Line="1" Column="19" />
+      <File FileName="Api.Example/Program.cs" Line="20" Column="80" />
+      <File FileName="WebApi.WindowsClient/Program.cs" Line="12" Column="1" />
+      <File FileName="Api.Example/Properties/launchSettings.json" Line="35" Column="28" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WebApi.WindowsClient" expanded="True" selected="True">
+            <Node name="Api.Entities" expanded="True" />
+            <Node name="Api.Example">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

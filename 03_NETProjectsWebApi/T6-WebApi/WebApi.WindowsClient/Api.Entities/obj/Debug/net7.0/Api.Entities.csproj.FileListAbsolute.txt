@@ -1,0 +1,12 @@
+/Users/yahir/Projects/WebApi.WindowsClient/Api.Entities/bin/Debug/net7.0/Api.Entities.deps.json
+/Users/yahir/Projects/WebApi.WindowsClient/Api.Entities/bin/Debug/net7.0/Api.Entities.dll
+/Users/yahir/Projects/WebApi.WindowsClient/Api.Entities/bin/Debug/net7.0/Api.Entities.pdb
+/Users/yahir/Projects/WebApi.WindowsClient/Api.Entities/obj/Debug/net7.0/Api.Entities.csproj.AssemblyReference.cache
+/Users/yahir/Projects/WebApi.WindowsClient/Api.Entities/obj/Debug/net7.0/Api.Entities.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yahir/Projects/WebApi.WindowsClient/Api.Entities/obj/Debug/net7.0/Api.Entities.AssemblyInfoInputs.cache
+/Users/yahir/Projects/WebApi.WindowsClient/Api.Entities/obj/Debug/net7.0/Api.Entities.AssemblyInfo.cs
+/Users/yahir/Projects/WebApi.WindowsClient/Api.Entities/obj/Debug/net7.0/Api.Entities.csproj.CoreCompileInputs.cache
+/Users/yahir/Projects/WebApi.WindowsClient/Api.Entities/obj/Debug/net7.0/Api.Entities.dll
+/Users/yahir/Projects/WebApi.WindowsClient/Api.Entities/obj/Debug/net7.0/refint/Api.Entities.dll
+/Users/yahir/Projects/WebApi.WindowsClient/Api.Entities/obj/Debug/net7.0/Api.Entities.pdb
+/Users/yahir/Projects/WebApi.WindowsClient/Api.Entities/obj/Debug/net7.0/ref/Api.Entities.dll
