@@ -1,0 +1,43 @@
+﻿<Properties StartupConfiguration="{6E4EC86F-391B-4F64-81B8-3ECA1DE2FE10}|https">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="GymManager.ApplicationServices/Navigation/MenuAppService.cs">
+    <Files>
+      <File FileName="GymManager.Core/Navigation/UserMenuItem.cs" />
+      <File FileName="GymManager.ApplicationServices/Navigation/IMenuAppService.cs" />
+      <File FileName="GymManager.ApplicationServices/Navigation/MenuAppService.cs" Line="75" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="GymManager.Web" expanded="True">
+            <Node name="GymManager.ApplicationServices" expanded="True">
+              <Node name="Navigation" expanded="True">
+                <Node name="MenuAppService.cs" selected="True" />
+              </Node>
+            </Node>
+            <Node name="GymManager.Core" expanded="True">
+              <Node name="Navigation" expanded="True" />
+            </Node>
+            <Node name="GymManager.Web" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Pages" expanded="True">
+                <Node name="Shared" expanded="True" />
+              </Node>
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+                <Node name="Members" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.GymManager.Web PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
