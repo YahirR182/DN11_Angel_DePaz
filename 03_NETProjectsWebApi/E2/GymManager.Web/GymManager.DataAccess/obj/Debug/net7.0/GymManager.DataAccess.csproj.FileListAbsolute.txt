@@ -1,0 +1,14 @@
+/Users/yahir/Projects/GymManager.Web/GymManager.DataAccess/bin/Debug/net7.0/GymManager.DataAccess.deps.json
+/Users/yahir/Projects/GymManager.Web/GymManager.DataAccess/bin/Debug/net7.0/GymManager.DataAccess.runtimeconfig.json
+/Users/yahir/Projects/GymManager.Web/GymManager.DataAccess/bin/Debug/net7.0/GymManager.DataAccess.dll
+/Users/yahir/Projects/GymManager.Web/GymManager.DataAccess/bin/Debug/net7.0/GymManager.DataAccess.pdb
+/Users/yahir/Projects/GymManager.Web/GymManager.DataAccess/obj/Debug/net7.0/GymManager.DataAccess.csproj.AssemblyReference.cache
+/Users/yahir/Projects/GymManager.Web/GymManager.DataAccess/obj/Debug/net7.0/GymManager.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yahir/Projects/GymManager.Web/GymManager.DataAccess/obj/Debug/net7.0/GymManager.DataAccess.AssemblyInfoInputs.cache
+/Users/yahir/Projects/GymManager.Web/GymManager.DataAccess/obj/Debug/net7.0/GymManager.DataAccess.AssemblyInfo.cs
+/Users/yahir/Projects/GymManager.Web/GymManager.DataAccess/obj/Debug/net7.0/GymManager.DataAccess.csproj.CoreCompileInputs.cache
+/Users/yahir/Projects/GymManager.Web/GymManager.DataAccess/obj/Debug/net7.0/GymManager.DataAccess.dll
+/Users/yahir/Projects/GymManager.Web/GymManager.DataAccess/obj/Debug/net7.0/refint/GymManager.DataAccess.dll
+/Users/yahir/Projects/GymManager.Web/GymManager.DataAccess/obj/Debug/net7.0/GymManager.DataAccess.pdb
+/Users/yahir/Projects/GymManager.Web/GymManager.DataAccess/obj/Debug/net7.0/GymManager.DataAccess.genruntimeconfig.cache
+/Users/yahir/Projects/GymManager.Web/GymManager.DataAccess/obj/Debug/net7.0/ref/GymManager.DataAccess.dll

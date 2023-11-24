@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Members\" />
+    <None Remove="Navigation\" />
+    <None Remove="MembershipTypes\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Members\" />
+    <Folder Include="Navigation\" />
+    <Folder Include="MembershipTypes\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\GymManager.Core\GymManager.Core.csproj" />
+  </ItemGroup>
+</Project>
